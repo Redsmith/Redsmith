@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... developmental project of each kind
 - 🌱 I’m currently learning ... python,kotlin and webdevelopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...@bismark09 on telegram
+- 📫 How to reach me ...@bismark09 on telegram
+- 😄 Pronouns: ... admin Redsmith
 - ⚡ Fun fact: ... I'd like to be a proffecianal developer.
 
 <!---
